@@ -5,7 +5,8 @@
 
 ## Results
 ### The analysis of the stock data for DAQO, and other green energy companies, did not show great results. In 2017, DAQO had a return of 8.9%, but in 2018 they had a 7.3% loss. Overall, most of the energy companies showed returns on 2017, contrary to 2018 where most energy stocks showed negative returns. 
-
+![All_Stocks_2017/Run-time](All_Stocks_2017.png)
+![All_Stocks_2018/Run-time](All_Stocks_2018.png)
 ## Summary
 ### Part 1
 ### An advantage of refactoring code is that it makes the code easier for others to understand because their are less steps being taken, which can eliminate confusion. Refactoring also uses less memory which can help scripts to run quicker, improving performance. 
